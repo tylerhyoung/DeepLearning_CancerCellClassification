@@ -4,4 +4,4 @@ For a graduate class on machine learning, I built a convolutional neural network
 
 Data used in this project comes from <https://www.kaggle.com/paultimothymooney/breast-histopathology-images>.
 
-This project carried extra meaning for me as the fight against cancer has affected me personally. I enjoyed presenting how a deep learning network such as this could be implemented to increase healthcare professionals efficiency.
+This project carried extra meaning for me as the fight against cancer has affected me personally. My group and I enjoyed presenting how a deep learning network such as this could be implemented to increase healthcare professionals efficiency.
